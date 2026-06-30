@@ -3,8 +3,6 @@ languageCode = "fr"
 defaultContentLanguage = "fr"
 title = "Cahiers du Socialisme"
 
-theme = ""
-
 [params]
   description = "Théorie et pensée socialiste"
   subtitle = "Revue d'idées et de réflexion politique"
