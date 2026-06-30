@@ -1,0 +1,20 @@
+baseURL = "https://cahiersdusocialisme.fr/"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+title = "Cahiers du Socialisme"
+
+theme = ""
+
+[params]
+  description = "Théorie et pensée socialiste"
+  subtitle = "Revue d'idées et de réflexion politique"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]

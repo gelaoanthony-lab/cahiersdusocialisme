@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<h1 class="post-title" style="margin-bottom:2rem;">{{ .Title }}</h1>
+
+{{ range .Pages }}
+<article class="post-list-item">
+  <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <p class="post-meta">{{ .Date.Format "2 January 2006" }}</p>
+  <p class="post-excerpt">{{ .Summary }}</p>
+  <a class="read-more" href="{{ .Permalink }}">Lire la suite →</a>
+</article>
+{{ else }}
+<p>Aucun article ici pour le moment.</p>
+{{ end }}
+
+{{ partial "footer.html" . }}
+{{ end }}

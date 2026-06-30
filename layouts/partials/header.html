@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  {{ with .OutputFormats.Get "RSS" }}
+  <link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ $.Site.Title }}">
+  {{ end }}
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title"><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+    <p class="site-subtitle">{{ .Site.Params.subtitle }}</p>
+    <nav class="site-nav">
+      <a href="{{ "/" | relURL }}">Accueil</a>
+      <a href="{{ "/posts/" | relURL }}">Tous les articles</a>
+    </nav>
+  </header>
+  <main>

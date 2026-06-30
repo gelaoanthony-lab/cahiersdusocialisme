@@ -1,0 +1,242 @@
+/* ===================================================
+   Cahiers du Socialisme — style éditorial / revue
+   =================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  --color-text: #1a1a1a;
+  --color-text-soft: #444444;
+  --color-bg: #fbfaf7;
+  --color-accent: #7a1f1f;
+  --color-border: #ddd8cf;
+  --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, sans-serif;
+  --max-width: 720px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--font-serif);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  line-height: 1.65;
+  font-size: 19px;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+a:hover {
+  border-bottom-color: var(--color-accent);
+}
+
+/* ---------- En-tête du site ---------- */
+
+.site-header {
+  border-bottom: 3px solid var(--color-text);
+  padding: 2.5rem 1.5rem 1.5rem;
+  text-align: center;
+}
+
+.site-title {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 2.6rem;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+.site-title a {
+  color: var(--color-text);
+  border-bottom: none;
+}
+
+.site-subtitle {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  color: var(--color-text-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-top: 0.6rem;
+}
+
+.site-nav {
+  margin-top: 1.2rem;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+}
+
+.site-nav a {
+  margin: 0 0.8rem;
+  color: var(--color-text);
+  border-bottom: 1px solid transparent;
+}
+
+.site-nav a:hover {
+  border-bottom-color: var(--color-text);
+}
+
+/* ---------- Contenu principal ---------- */
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+/* ---------- Liste d'articles (page d'accueil) ---------- */
+
+.post-list-item {
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-list-item:last-child {
+  border-bottom: none;
+}
+
+.post-list-item .post-title {
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+}
+
+.post-list-item .post-title a {
+  color: var(--color-text);
+  border-bottom: none;
+}
+
+.post-list-item .post-title a:hover {
+  color: var(--color-accent);
+}
+
+.post-meta {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+}
+
+.post-excerpt {
+  color: var(--color-text-soft);
+}
+
+.read-more {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ---------- Article individuel ---------- */
+
+.post-header {
+  margin-bottom: 2.5rem;
+}
+
+.post-header .post-title {
+  font-size: 2.4rem;
+  line-height: 1.2;
+  margin: 0 0 0.8rem;
+}
+
+.post-content {
+  font-size: 1.05rem;
+}
+
+.post-content h2 {
+  font-size: 1.5rem;
+  margin-top: 2.5rem;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.4rem;
+}
+
+.post-content h3 {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+.post-content p {
+  margin: 1.3rem 0;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 2rem 0;
+  display: block;
+}
+
+.post-content blockquote {
+  margin: 2rem 0;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  border-left: 3px solid var(--color-accent);
+  font-style: italic;
+  color: var(--color-text-soft);
+}
+
+.post-content figure {
+  margin: 2rem 0;
+}
+
+.post-content figcaption {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.post-content a {
+  text-decoration: underline;
+}
+
+.post-tags {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+}
+
+.post-tags a {
+  display: inline-block;
+  margin: 0 0.5rem 0.5rem 0;
+  padding: 0.2rem 0.7rem;
+  border: 1px solid var(--color-border);
+  border-radius: 3px;
+  color: var(--color-text-soft);
+}
+
+/* ---------- Pied de page ---------- */
+
+.site-footer {
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  padding: 2.5rem 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 600px) {
+  body { font-size: 17px; }
+  .site-title { font-size: 2rem; }
+  .post-header .post-title { font-size: 1.9rem; }
+  main { padding: 2rem 1.2rem 3rem; }
+}
