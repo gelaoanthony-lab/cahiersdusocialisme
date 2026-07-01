@@ -230,4 +230,4 @@ toute une partie de la société qui le devient. Puisse la crise de la
 gauche actuelle nous permettre de lui faire retrouver des bases saines,
 rationnelles et universelles.**
 
-Anthony Gelao
+<p style="text-align: right; font-style: italic;">Anthony Gelao</p>
