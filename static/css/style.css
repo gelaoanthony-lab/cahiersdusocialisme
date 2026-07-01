@@ -5,11 +5,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap');
 
 :root {
-  --color-text: #1a1a1a;
-  --color-text-soft: #444444;
-  --color-bg: #fbfaf7;
+  --color-text: #1c1810;
+  --color-text-soft: #5a5040;
+  --color-bg: #f5f0e8;
   --color-accent: #7a1f1f;
-  --color-border: #ddd8cf;
+  --color-border: #d8cfbc;
   --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
   --font-sans: 'Inter', -apple-system, sans-serif;
   --max-width: 720px;
@@ -50,9 +50,11 @@ a:hover {
 .site-title {
   font-family: var(--font-serif);
   font-weight: 700;
-  font-size: 2.6rem;
+  font-size: 3.4rem;
   margin: 0;
-  letter-spacing: -0.01em;
+  letter-spacing: 0.08em;
+  font-variant: small-caps;
+  text-transform: lowercase;
 }
 
 .site-title a {
