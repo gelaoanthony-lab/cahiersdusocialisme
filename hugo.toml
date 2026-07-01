@@ -1,7 +1,7 @@
 baseURL = "https://cahiersdusocialisme.fr/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Cahiers du Socialisme"
+title = "Les Cahiers du Socialisme"
 
 [params]
   description = "Théorie et pensée socialiste"
