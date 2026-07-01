@@ -2,7 +2,7 @@
    Cahiers du Socialisme — style éditorial / revue
    =================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Inter:wght@400;500;600&display=swap');
 
 :root {
   --color-text: #1c1810;
@@ -10,7 +10,7 @@
   --color-bg: #f5f0e8;
   --color-accent: #7a1f1f;
   --color-border: #d8cfbc;
-  --font-serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-serif: 'GFS Didot', Georgia, 'Times New Roman', serif;
   --font-sans: 'Inter', -apple-system, sans-serif;
   --max-width: 720px;
 }
@@ -24,8 +24,8 @@ body {
   font-family: var(--font-serif);
   color: var(--color-text);
   background-color: var(--color-bg);
-  line-height: 1.8;
-  font-size: 19px;
+  line-height: 1.75;
+  font-size: 22px;
   font-weight: 400;
 }
 
