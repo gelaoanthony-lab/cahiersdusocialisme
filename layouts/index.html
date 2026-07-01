@@ -4,6 +4,9 @@
 {{ $posts := where .Site.RegularPages "Type" "posts" }}
 {{ range $posts }}
 <article class="post-list-item">
+  {{ with .Params.categories }}
+  <p class="post-category">{{ index . 0 }}</p>
+  {{ end }}
   <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
   <p class="post-meta">{{ .Date.Format "2 January 2006" }}</p>
   <p class="post-excerpt">{{ .Summary | truncate 200 }}</p>
