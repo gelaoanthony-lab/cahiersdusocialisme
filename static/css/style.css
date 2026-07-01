@@ -24,8 +24,9 @@ body {
   font-family: var(--font-serif);
   color: var(--color-text);
   background-color: var(--color-bg);
-  line-height: 1.75;
-  font-size: 23px;
+  line-height: 1.8;
+  font-size: 26px;
+  font-weight: 500;
 }
 
 a {
