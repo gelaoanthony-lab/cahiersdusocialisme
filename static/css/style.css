@@ -25,12 +25,12 @@ body {
   color: var(--color-text);
   background-color: var(--color-bg);
   line-height: 1.75;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 400;
 }
 
 .post-content {
-  font-size: 1.05rem;
+  font-size: 1.5rem;
   text-align: justify;
   hyphens: auto;
 }
