@@ -3,6 +3,7 @@ title: "Socialisme et bourgeoisie"
 date: 2026-06-30
 draft: false
 tags: ["socialisme", "gauche", "politique", "bourgeoisie"]
+categories: ["Politique"]
 ---
 Face à la crise de la gauche, il est nécessaire de revenir sur certains
 principes de base. Parmi les problèmes de fond, il en est un en germe
