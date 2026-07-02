@@ -1,0 +1,262 @@
+/* ===================================================
+   Les Cahiers du Socialisme — style éditorial / revue
+   =================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  --color-text: #1c1810;
+  --color-text-soft: #5a5040;
+  --color-bg: #f5f0e8;
+  --color-accent: #7a1f1f;
+  --color-border: #d8cfbc;
+  --font-serif: 'GFS Didot', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, sans-serif;
+  --max-width: 720px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--font-serif);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  line-height: 1.75;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+a:hover {
+  border-bottom-color: var(--color-accent);
+}
+
+/* ---------- En-tête du site ---------- */
+
+.site-header {
+  border-bottom: 3px solid var(--color-text);
+  padding: 2.5rem 1.5rem 1.5rem;
+  text-align: center;
+}
+
+.site-title {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 800;
+  font-size: 5.5rem;
+  margin: 0;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  color: var(--color-text);
+}
+
+.site-title .du-socialisme {
+  display: block;
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 4rem;
+  font-weight: 500;
+  color: var(--color-accent);
+  letter-spacing: 0.02em;
+  margin-top: 0.1em;
+}
+
+.site-title a {
+  color: var(--color-text);
+  border-bottom: none;
+}
+
+.site-subtitle {
+  display: none;
+}
+
+.site-nav {
+  margin-top: 1.2rem;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+}
+
+.site-nav a {
+  margin: 0 0.8rem;
+  color: var(--color-text);
+  border-bottom: 1px solid transparent;
+}
+
+.site-nav a:hover {
+  border-bottom-color: var(--color-text);
+}
+
+/* ---------- Contenu principal ---------- */
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+/* ---------- Liste d'articles (page d'accueil) ---------- */
+
+.post-category {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-accent);
+  margin: 0 0 0.3rem;
+}
+
+.post-list-item {
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-list-item:last-child {
+  border-bottom: none;
+}
+
+.post-list-item .post-title {
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+}
+
+.post-list-item .post-title a {
+  color: var(--color-text);
+  border-bottom: none;
+}
+
+.post-list-item .post-title a:hover {
+  color: var(--color-accent);
+}
+
+.post-meta {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+}
+
+.post-excerpt {
+  color: var(--color-text-soft);
+}
+
+.read-more {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ---------- Article individuel ---------- */
+
+.post-header {
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+
+.post-header .post-title {
+  font-size: 2.8rem;
+  line-height: 1.15;
+  margin: 0 0 0.8rem;
+  text-align: center;
+  hyphens: none;
+}
+
+.post-content {
+  font-size: 1.4rem;
+  text-align: justify;
+  hyphens: auto;
+  line-height: 1.8;
+}
+
+.post-content h2 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.4rem;
+  text-align: center;
+  hyphens: none;
+}
+
+.post-content h3 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 2rem;
+  text-align: center;
+  hyphens: none;
+}
+
+.post-content p {
+  margin: 1.5rem 0;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 2rem 0;
+  display: block;
+}
+
+.post-content blockquote {
+  margin: 2rem 0;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  border-left: 3px solid var(--color-accent);
+  font-style: italic;
+  color: var(--color-text-soft);
+}
+
+.post-content figure {
+  margin: 2rem 0;
+}
+
+.post-content figcaption {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.post-content a {
+  text-decoration: underline;
+}
+
+.post-tags {
+  display: none;
+}
+
+/* ---------- Pied de page ---------- */
+
+.site-footer {
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  padding: 2.5rem 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 600px) {
+  body { font-size: 17px; }
+  .site-title { font-size: 2rem; }
+  .site-title .du-socialisme { font-size: 1.5rem; }
+  .post-header .post-title { font-size: 1.9rem; }
+  .post-content { font-size: 1.2rem; }
+  main { padding: 2rem 1.2rem 3rem; }
+}
