@@ -8,7 +8,7 @@ categories: ["Politique"]
 Face à la crise de la gauche, il est nécessaire de revenir sur certains
 principes de base. Parmi les problèmes de fond, il en est un en germe
 depuis le départ et sur lequel il est nécessaire de mettre les choses à
-plat : le rapport entre le socialisme et la bourgeoisie.
+plat : le rapport entre le socialisme et la bourgeoisie. 
 
 ## Bourgeoisie, capitalisme et responsabilité
 
