@@ -16,3 +16,19 @@ title = "Les Cahiers du Socialisme"
 
 [outputs]
   home = ["HTML", "RSS"]
+
+  [params]
+  mainSections = ["posts"]
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[[menu.main]]
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Tous les articles"
+  url = "/posts/"
+  weight = 2
