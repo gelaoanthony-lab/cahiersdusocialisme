@@ -178,7 +178,7 @@ collègues universitaires, sa recherche de la vérité et de l’intérêt
 général le conduisit toutefois à réfuter sévèrement ses amis libéraux.
 Bien qu’il ne fût pas socialiste dans le sens où il ne croyait pas dans
 la nécessité de la socialisation des moyens de production, sa pensée
-originale peut être aujourd’hui pleinement intégrée dans le socialisme.
+originale peut être aujourd’hui pleinement intégrée dans la pensée socialiste.
 Au fond, Keynes ne partageait-il pas le même rêve que les ouvriers
 lorsqu’il imaginait un monde où l’on travaillerait trois heures par
 jour ?
