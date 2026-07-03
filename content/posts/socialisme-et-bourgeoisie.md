@@ -130,7 +130,7 @@ fiction rendant aussi cyniquement l’absurde de la situation.
 
 Ces exemples extrêmes illustrent une façon de penser fallacieuse qui
 existe toujours aujourd’hui, bien que la classe ouvrière ne soit plus
-objet de la même d’adoration qu’à ce moment. Bien que l’on puisse
+objet de la même adoration qu’à ce moment. Bien que l’on puisse
 apprécier l’intérêt que portaient les étudiants d’alors à la classe
 ouvrière, leur approche s’est caractérisée par la radicalité, la
 démagogie, et par une doctrine dans laquelle on ressentait trop
