@@ -73,7 +73,7 @@ permettrait ce financement.
 
 Fabien Roussel a certainement senti la nécessité politique d’opérer une
 distinction entre prolétariat et, comme le disait Friedrich Engels, *«
-lumpenprolétariat. »*
+lumpenprolétariat »*.
 
 De même, certains impôts n’ont pas la cote dans la population. Un
 sondage récent illustre ce phénomène. Bien que les économistes de gauche
