@@ -24,7 +24,7 @@ social, Fabien Roussel entendait ainsi faire la promotion de
 l’intéressant projet SEF (Sécurité, emploi et formation) porté par le
 programme du PCF.
 
-*Fabien Roussel a certainement senti la nécessité politique d’opérer une
+Fabien Roussel a certainement senti la nécessité politique d’opérer une
 distinction entre prolétariat et, comme le disait Friedrich Engels, «
 lumpenprolétariat. » Rassembler ces deux catégories sous le mot de «
 pauvres » comme l’a souvent fait la gauche catholique engendre certaines
@@ -38,14 +38,12 @@ France qui a assommé des générations entières à coups de RSA. Cela a
 permis à la droite de séparer les gens entre des travailleurs et des
 cassos. \[…\] Vous aurez des gens qui viendront vous voir en disant :
 pourquoi je me crève la paillasse à bosser pendant que mon voisin qui
-touche le RSA vit aussi bien que moi ? »*
+touche le RSA vit aussi bien que moi ? ».
 
 La proposition de supprimer le RSA est peut-être trop sèche et mérite
 d’être discutée. Il est probable que dans une société prospère,
 l’existence d’un RSA serait mieux acceptée, mais dans la société telle
 qu’elle est, cette tension existe et ne peut pas être ignorée.
-
-Fabien Roussel en février dernier.
 
 La droite aime en effet jouer sur cette distinction et dégainer des
 mesures contre le lumpenprolétariat, comme peut le faire Laurent
@@ -73,8 +71,8 @@ redistribution existants plutôt que d’en créer de nouveaux, et seule une
 hausse de la production et une baisse significative du chômage
 permettrait ce financement.
 
-*Fabien Roussel a certainement senti la nécessité politique d’opérer une
-distinction entre prolétariat et, comme le disait Friedrich Engels, «
+Fabien Roussel a certainement senti la nécessité politique d’opérer une
+distinction entre prolétariat et, comme le disait Friedrich Engels, *«
 lumpenprolétariat. »*
 
 De même, certains impôts n’ont pas la cote dans la population. Un
@@ -127,9 +125,6 @@ maximum la production de richesse. Ils oublient, bien négligemment, que
 le facteur semblant avoir le plus de poids quant au niveau de la
 production est le niveau des investissements.
 
-*Nous avons aujourd’hui l’expérience de l’échec des théories libérales
-vis-à-vis du maintien d’un niveau de production viable.*
-
 Les individus consomment une partie de leur revenu, et épargnent le
 reste. Plus le revenu d’un individu est élevé, plus il aura tendance à
 épargner une plus grande part de ce revenu. Les entreprises se basent
@@ -177,8 +172,6 @@ plans fondés sur des considérations d’intérêts privés, mais en vue de
 l’édification d’un pays plus moderne, plus dynamique et finalement plus
 riche – que s’il dispose sans réserve des grands moyens clés dont la
 gestion conditionne toute la vie économique d’un pays évolué. »
-
-Pierre Mendès France en 1948.
 
 Une large gamme d’entreprises furent nationalisées dans les secteurs
 considérés comme clefs : grandes banques de dépôt, assurances, industrie
@@ -266,10 +259,6 @@ ailleurs, rappelons que la Russie, a depuis l’invasion de l’Ukraine,
 enclenché une forme de planification de son industrie, et que, malgré
 les sanctions diplomatiques, le coût de la guerre, les pertes et
 destructions engendrées par le conflit, l’économie russe se porte bien.
-
-*Il est indéniable que les formules de « keynésianisme militaire » sont
-très efficaces pour stimuler l’activité industrielle et réduire le
-chômage.*
 
 Autre grande question d’actualité : le protectionnisme et la hausse des
 tarifs douaniers tous azimuts décidée par Donald Trump. L’introduction
