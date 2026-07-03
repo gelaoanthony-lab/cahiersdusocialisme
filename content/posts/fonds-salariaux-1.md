@@ -1,6 +1,10 @@
-# Les fonds salariaux, une idée socialiste pour le XXIe siècle (1/3)
-
-**Anthony Gelao**
+---
+title: "Les fonds salariaux, une idée socialiste pour le XXIe siècle (1/3)"
+date: 2023-09-09
+draft: false
+tags: ["socialisme", "gauche", "capitalisme"]
+categories: ["Économie"]
+---
 
 En entonnant une vibrante Internationale après l’adoption du projet des fonds salariaux, les membres du plus grand syndicat ouvrier suédois, LO, ne s’y trompaient pas. Le syndicat, lié au parti social-démocrate, avait en effet formulé une proposition qui s’attaquait au cœur même du capitalisme, à savoir la propriété privée des moyens de production. L’idée était de socialiser en douceur l’économie via un système de transfert des actions des entreprises vers un fond détenu par les salariés. Bien que l’idée ne fût finalement pas adoptée, son concepteur, Rudolf Meidner, nous a laissé un travail précieux et une réflexion de premier ordre sur la façon dont les fonds salariaux devaient être conçus.
 
@@ -62,4 +66,4 @@ Le capital du fond était utilisé pour acheter des actions sur le marché bours
 
 Le projet des fonds salariaux porté par LO s’est finalement conclu par un échec, et est devenu par la suite très lointain, la Suède finissant par opter pour un modèle néo-libéral à partir des années 80. Toutefois les réflexions sur l’organisation et le fonctionnement des fonds, qui devaient servir de fondations à la démocratie économique, peuvent toujours nous servir de base de réflexions aujourd’hui. Suite dans la deuxième partie de notre dossier consacré aux fonds salariaux.
 
-**Anthony Gelao**
+<p style="text-align: right;">Anthony Gelao</p>
