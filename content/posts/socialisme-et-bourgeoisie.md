@@ -176,7 +176,7 @@ sous-tendaient toute pensée économique. Loin de se prendre pour un
 champion de la classe ouvrière comme le faisaient certains de ses
 collègues universitaires, sa recherche de la vérité et de l’intérêt
 général le conduisit toutefois à réfuter sévèrement ses amis libéraux.
-Bien qu’il ne fût pas socialiste dans le sens où il ne croyait pas dans
+Bien qu’il n'était pas socialiste dans le sens où il ne croyait pas dans
 la nécessité de la socialisation des moyens de production, sa pensée
 originale peut être aujourd’hui pleinement intégrée dans la pensée socialiste.
 Au fond, Keynes ne partageait-il pas le même rêve que les ouvriers
