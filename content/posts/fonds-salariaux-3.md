@@ -1,6 +1,6 @@
 ---
 title: "Les fonds salariaux, aboutissement de la théorie socialiste (3/3)"
-date: 2023-25-09
+date: 2023-09-25
 draft: false
 tags: ["socialisme", "gauche", "économie", "capitalisme"]
 categories: ["Économie"]
