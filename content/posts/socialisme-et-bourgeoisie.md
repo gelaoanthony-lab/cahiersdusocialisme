@@ -17,7 +17,7 @@ changements devant le phénomène d’industrialisation, qui conduisait à la
 disparition du travail artisanal et provoquait l’exode rural. La
 première industrialisation conduisit à un désastre social malgré les
 gains de productivité formidables que permettaient les nouvelles
-techniques industrielles. Le travail salarié devint peu à peu la norme
+techniques industrielles. Le travail salarié devenait peu à peu la norme
 des classes laborieuses. Le pouvoir de l’aristocratie et le système
 mental qui l’accompagnait étaient vacillants face à la montée en
 puissance de la bourgeoisie.
