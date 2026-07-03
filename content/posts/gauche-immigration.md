@@ -1,4 +1,10 @@
-# Comment la gauche devrait parler de l’immigration
+---
+title: "Comment la gauche devrait parler de l’immigration"
+date: 2024-08-05
+draft: false
+tags: ["socialisme", "gauche", "immigration"]
+categories: ["Politique"]
+---
 
 Bien que les législatives récentes aient marqué l’échec du Rassemblement
 National à accéder au pouvoir, la formation de Marine Le Pen poursuit sa
