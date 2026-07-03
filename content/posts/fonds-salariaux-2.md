@@ -1,6 +1,6 @@
 ---
 title: "Les fonds salariaux, schéma et organisation (2/3)"
-date: 2026-07-03
+date: 2023-18-09
 draft: false
 tags: ["socialisme", "gauche", "économie", "capitalisme"]
 categories: ["Économie"]
