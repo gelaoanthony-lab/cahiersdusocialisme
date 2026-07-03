@@ -43,7 +43,7 @@ socialistes proposèrent la solution de la socialisation des moyens de
 production, censée mettre fin au phénomène d’exploitation. Ainsi le
 journal *La Réforme* écrivait en 1843 : « *Les travailleurs ont été
 esclaves, ils ont été serfs, ils sont aujourd’hui salariés ; il faut
-tendre à les faire passer à l’état d’associés. »*.
+tendre à les faire passer à l’état d’associés. »*
 
 Dans la société moderne, où les contrats de travail et les individus
 sont libres, il faut effectuer un zoom arrière au niveau des classes
@@ -63,7 +63,7 @@ le vol. \[…\] C’est au droit politique qu’il faut s’en prendre si la
 propriété actuelle est encore féodale. Mais parce que le droit politique
 ne remplit pas bien sa mission, le droit civil n’en est pas moins le
 droit. On ne saurait rendre les individus responsables, en tant
-qu’individus, du fait social. ».
+qu’individus, du fait social. »
 
 Les responsabilités étant diluées, l’opposition entre les classes
 populaires et la bourgeoisie doit s’inscrire dans des formes politiques,
