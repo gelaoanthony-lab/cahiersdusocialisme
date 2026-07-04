@@ -403,7 +403,9 @@ main {
   font-size: 1.5rem;
   text-align: justify;
   hyphens: auto;
-  line-height: 1.6;
+  line-height: 1.68;
+  font-feature-settings: "onum" 1, "kern" 1, "liga" 1;
+  font-variant-numeric: oldstyle-nums;
 }
 
 .post-content > p:first-of-type::first-letter {
@@ -476,7 +478,8 @@ main {
 
 .post-content a {
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 .post-content ul,
