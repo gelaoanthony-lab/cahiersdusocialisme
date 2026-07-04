@@ -118,10 +118,4 @@ Les militants de LFI continuent d'être marqués par l'héritage d'un gauchisme 
 
 Les résultats électoraux de LFI aux législatives présentés comme une grande victoire ont alimenté leur imaginaire gauchiste et leurs prétentions, alors que leur progression électorale a eu lieu sur fond d'abstention massive et qu'aujourd'hui leur discrédit va grandissant auprès d'une grande partie de la population. Cette fuite en avant autour d'un leader aux allures de gourou risque bien d'entraîner leur implosion.
 
----
-
-**Anthony Gelao**
-
----
-
-**Tags :** extrême gauche, France, gauche, gauchisme, Lordon, Mai 68, maoïsme, Michéa
+<p style="text-align: right;">Anthony Gelao</p>
