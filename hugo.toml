@@ -17,3 +17,19 @@ title = "Les Cahiers du Socialisme"
 
 [outputs]
   home = ["HTML", "RSS"]
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Articles"
+    url = "/posts/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Qui sommes-nous"
+    url = "/page/qui-sommes-nous/"
+    weight = 10
