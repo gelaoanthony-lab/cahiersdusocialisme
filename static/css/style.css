@@ -227,6 +227,12 @@ main {
   gap: 2.75rem 2.5rem;
 }
 
+@media (min-width: 960px) {
+  .post-grid:not(.post-grid-related) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 .post-grid-related {
   max-width: var(--content-width);
   margin: 0 auto;
@@ -435,7 +441,9 @@ main {
 }
 
 .post-content p {
-  margin: 1.4rem 0;
+  margin: 1.75rem 0;
+  orphans: 3;
+  widows: 3;
 }
 
 .post-content img {
