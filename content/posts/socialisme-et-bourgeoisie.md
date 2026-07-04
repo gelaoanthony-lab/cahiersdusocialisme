@@ -41,9 +41,9 @@ domination directs et brutaux, alors que les responsabilités étaient
 diluées dans le capitalisme. À cette injustice fondamentale les
 socialistes proposèrent la solution de la socialisation des moyens de
 production, censée mettre fin au phénomène d’exploitation. Ainsi le
-journal *La Réforme* écrivait en 1843 : « *Les travailleurs ont été
+journal *La Réforme* écrivait en 1843 : « Les travailleurs ont été
 esclaves, ils ont été serfs, ils sont aujourd’hui salariés ; il faut
-tendre à les faire passer à l’état d’associés. »*
+tendre à les faire passer à l’état d’associés. »
 
 Dans la société moderne, où les contrats de travail et les individus
 sont libres, il faut effectuer un zoom arrière au niveau des classes
