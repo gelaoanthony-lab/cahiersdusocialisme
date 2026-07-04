@@ -4,6 +4,7 @@ date: 2026-07-03
 draft: false
 tags: ["socialisme", "gauche", "politique", "bourgeoisie"]
 categories: ["Politique"]
+aliases: ["/posts/socialisme-et-bourgeoisie/"]
 ---
 Face à la crise de la gauche, il est nécessaire de revenir sur certains
 principes de base. Parmi les problèmes de fond, il en est un en germe
