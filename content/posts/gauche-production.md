@@ -222,7 +222,7 @@ Il ne s’agit pas aujourd’hui de proposer un copié-collé de ce qui avait
 inspirations et des exemples montrant que le socialisme a quelque chose
 à dire en termes de production. Il serait en effet dommageable que le
 centre et la droite passent pour les « producteurs » tandis que la
-gauche passe pour les « redistributeurs. »
+gauche passe pour les « redistributeurs ».
 
 ## Questions d’actualité : économie de guerre et protectionnisme
 
@@ -238,7 +238,7 @@ question.
 
 Une guerre future avec la Russie parait improbable, mais mettre en œuvre
 une politique d’armement la rendrait tout à fait impossible. Si vis
-pacem, para bellum – « si tu veux la paix, prépare la guerre. » Ainsi la
+pacem, para bellum – « si tu veux la paix, prépare la guerre » Ainsi la
 proposition n’est pas dénuée d’intérêt stratégique. Le fait d’avoir une
 industrie de l’armement fonctionnelle est également un atout d’influence
 et de puissance à considérer.
