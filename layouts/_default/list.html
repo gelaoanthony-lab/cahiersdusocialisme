@@ -1,22 +1,19 @@
 {{ define "main" }}
   {{ partial "header.html" . }}
 
-  <h1>{{ .Title | default "Tous les articles" }}</h1>
+  <div class="list-header">
+    <h1>{{ .Title | default "Tous les articles" }}</h1>
+    {{ with .Content }}<div class="list-intro">{{ . }}</div>{{ end }}
+  </div>
 
   {{ if .Pages }}
-    {{ range .Pages.ByPublishDate.Reverse }}
-      <article class="post-list-item">
-        {{ with .Params.categories }}
-        <p class="post-category">{{ index . 0 }}</p>
-        {{ end }}
-        <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <p class="post-meta">{{ .Date.Format "2 January 2006" }}</p>
-        <p class="post-excerpt">{{ .Summary | truncate 200 }}</p>
-        <a class="read-more" href="{{ .Permalink }}">Lire la suite →</a>
-      </article>
-    {{ end }}
+    <div class="post-grid">
+      {{ range .Pages.ByPublishDate.Reverse }}
+        {{ partial "postcard.html" . }}
+      {{ end }}
+    </div>
   {{ else }}
-    <p>Aucun article publié pour le moment.</p>
+    <p class="empty-state">Aucun article publié pour le moment.</p>
   {{ end }}
 
   {{ partial "footer.html" . }}

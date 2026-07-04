@@ -1,12 +1,34 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 
-<article>
+{{ $cat := "" }}
+{{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+{{ $catClass := "cat-default" }}
+{{ if eq $cat "Politique" }}{{ $catClass = "cat-politique" }}
+{{ else if eq $cat "Économie" }}{{ $catClass = "cat-economie" }}
+{{ else if eq $cat "Entretiens" }}{{ $catClass = "cat-entretiens" }}
+{{ end }}
+
+<article class="{{ $catClass }}">
   <header class="post-header">
+    {{ if eq .Section "posts" }}
+      <nav class="post-breadcrumb" aria-label="Fil d'ariane">
+        <a href="{{ "/" | relURL }}">Accueil</a>
+        {{ with $cat }}
+          <span aria-hidden="true">/</span>
+          {{ with $.Site.GetPage (printf "/categories/%s" (. | urlize)) }}
+            <a href="{{ .RelPermalink }}">{{ $cat }}</a>
+          {{ else }}
+            <span>{{ $cat }}</span>
+          {{ end }}
+        {{ end }}
+      </nav>
+    {{ end }}
+
     <h1 class="post-title">{{ .Title }}</h1>
 
     {{ if eq .Section "posts" }}
-    <p class="post-meta">{{ .Date.Format "2 January 2006" }}</p>
+    <p class="post-meta">{{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} min de lecture</p>
     {{ end }}
   </header>
 
@@ -22,6 +44,25 @@
   </div>
   {{ end }}
 </article>
+
+{{ if and (eq .Section "posts") $cat }}
+  {{ $related := where .Site.RegularPages "Type" "posts" }}
+  {{ $related = where $related "Params.categories" "intersect" (slice $cat) }}
+  {{ $related = where $related "Permalink" "ne" .Permalink }}
+  {{ $related = $related.ByPublishDate.Reverse }}
+  {{ $related = first 3 $related }}
+
+  {{ if $related }}
+  <div class="section-divider">
+    <span>À lire aussi en {{ $cat }}</span>
+  </div>
+  <div class="post-grid post-grid-related">
+    {{ range $related }}
+      {{ partial "postcard.html" . }}
+    {{ end }}
+  </div>
+  {{ end }}
+{{ end }}
 
 {{ partial "footer.html" . }}
 {{ end }}
