@@ -1,0 +1,14 @@
+{{- $cat := "" -}}
+{{- with .Params.categories }}{{ $cat = index . 0 }}{{ end -}}
+{{- $catClass := "cat-default" -}}
+{{- if eq $cat "Politique" }}{{ $catClass = "cat-politique" }}
+{{- else if eq $cat "Économie" }}{{ $catClass = "cat-economie" }}
+{{- else if eq $cat "Entretiens" }}{{ $catClass = "cat-entretiens" }}
+{{- end -}}
+<article class="post-card {{ $catClass }}">
+  {{ with $cat }}<p class="post-category">{{ . }}</p>{{ end }}
+  <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <p class="post-meta">{{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} min de lecture</p>
+  <p class="post-excerpt">{{ .Summary | plainify | truncate 160 }}</p>
+  <a class="read-more" href="{{ .Permalink }}">Lire la suite <span aria-hidden="true">→</span></a>
+</article>

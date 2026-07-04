@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
   {{ with .OutputFormats.Get "RSS" }}
@@ -13,26 +15,30 @@
 </head>
 
 <body>
+  <a class="skip-link" href="#contenu">Aller au contenu</a>
+
   <header class="site-header">
+    <p class="site-kicker">Revue de théorie et de pensée politique</p>
+
     <h1 class="site-title">
       <a href="{{ "/" | relURL }}">
-        Les Cahiers<span class="du-socialisme">du Socialisme</span>
+        Les Cahiers <span class="du-socialisme">du Socialisme</span>
       </a>
     </h1>
 
     <p class="site-subtitle">{{ .Site.Params.subtitle }}</p>
 
     <nav class="site-nav">
-      <a href="{{ "/" | relURL }}">Accueil</a>
+      <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="is-active"{{ end }}>Accueil</a>
 
       {{ range $name, $items := .Site.Taxonomies.categories }}
         {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <a href="{{ .RelPermalink }}"{{ if eq $.Title .Title }} class="is-active"{{ end }}>{{ .Title }}</a>
         {{ end }}
       {{ end }}
 
-      <a href="{{ "/qui-sommes-nous/" | relURL }}">À propos</a>
+      <a href="{{ "/qui-sommes-nous/" | relURL }}"{{ if eq .RelPermalink "/qui-sommes-nous/" }} class="is-active"{{ end }}>À propos</a>
     </nav>
   </header>
 
-  <main>
+  <main id="contenu">

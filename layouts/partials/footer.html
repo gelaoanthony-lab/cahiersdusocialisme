@@ -1,6 +1,36 @@
   </main>
+
   <footer class="site-footer">
-    <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }} — {{ .Site.Params.subtitle }}</p>
+    <div class="footer-inner">
+      <div class="footer-col footer-about">
+        <p class="footer-title">Les Cahiers du Socialisme</p>
+        <p>Un espace de réflexion critique consacré aux enjeux politiques et économiques contemporains, dans la tradition des cahiers d'idées.</p>
+      </div>
+
+      <div class="footer-col">
+        <p class="footer-title">Rubriques</p>
+        <ul class="footer-links">
+          {{ range $name, $items := .Site.Taxonomies.categories }}
+            {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <p class="footer-title">La revue</p>
+        <ul class="footer-links">
+          <li><a href="{{ "/qui-sommes-nous/" | relURL }}">Qui sommes-nous</a></li>
+          {{ with $.Site.Home.OutputFormats.Get "RSS" }}
+          <li><a href="{{ .Permalink }}">Flux RSS</a></li>
+          {{ end }}
+          <li><a href="mailto:gelao.anthony@gmail.com">Nous écrire</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="footer-copyright">&copy; {{ now.Format "2006" }} {{ .Site.Title }} — {{ .Site.Params.subtitle }}</p>
   </footer>
 </body>
 </html>
