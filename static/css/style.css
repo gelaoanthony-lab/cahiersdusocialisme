@@ -143,6 +143,11 @@ main {
   color: var(--color-text-soft);
 }
 
+.post-excerpt strong,
+.post-excerpt b {
+  font-weight: 400;
+}
+
 .read-more {
   font-family: var(--font-sans);
   font-size: 0.85rem;
