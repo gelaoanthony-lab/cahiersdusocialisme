@@ -4,6 +4,7 @@ date: 2023-09-09
 draft: false
 tags: ["socialisme", "gauche", "capitalisme"]
 categories: ["Économie"]
+aliases: ["/posts/fonds-salariaux-1/"]
 ---
 
 En entonnant une vibrante Internationale après l’adoption du projet des fonds salariaux, les membres du plus grand syndicat ouvrier suédois, LO, ne s’y trompaient pas. Le syndicat, lié au parti social-démocrate, avait en effet formulé une proposition qui s’attaquait au cœur même du capitalisme, à savoir la propriété privée des moyens de production. L’idée était de socialiser en douceur l’économie via un système de transfert des actions des entreprises vers un fond détenu par les salariés. Bien que l’idée ne fût finalement pas adoptée, son concepteur, Rudolf Meidner, nous a laissé un travail précieux et une réflexion de premier ordre sur la façon dont les fonds salariaux devaient être conçus.

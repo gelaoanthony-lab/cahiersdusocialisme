@@ -4,6 +4,7 @@ date: 2024-08-05
 draft: false
 tags: ["socialisme", "gauche", "immigration"]
 categories: ["Politique"]
+aliases: ["/posts/gauche-immigration/"]
 ---
 
 Bien que les législatives récentes aient marqué l’échec du Rassemblement

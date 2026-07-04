@@ -4,6 +4,7 @@ date: 2024-03-06
 draft: false
 tags: ["socialisme", "gauche", "gauchisme"]
 categories: ["Entretiens"]
+aliases: ["/posts/gauchisme-culturel-entretien-jean-pierre-le-goff/"]
 ---
 
 **Dans son dernier essai autobiographique *Mes années folles, Révolte et nihilisme du peuple adolescent après Mai 68* (Robert Laffont, 2023), le sociologue Jean-Pierre Le Goff retrace son parcours dans les milieux révolutionnaires caennais de sa jeunesse. Un récit sensible et analytique au cœur de la révolution culturelle soixante-huitarde qui nous éclaire sur notre présent.**

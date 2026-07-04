@@ -4,6 +4,7 @@ date: 2023-09-25
 draft: false
 tags: ["socialisme", "gauche", "économie", "capitalisme"]
 categories: ["Économie"]
+aliases: ["/posts/fonds-salariaux-3/"]
 ---
 Après avoir vu l’histoire et l’organisation des fonds salariaux dans les deux premières parties de notre dossier, l’aspect plus théorique de la proposition est ici abordé. En effet, des questions se posent. Des fonds salariaux peuvent-ils supprimer le capitalisme ? Quelle différence avec le système de participation gaullien ? Quelle idéologie peut être rattachée aux fonds ? Réponses et analyses.
 

@@ -4,6 +4,7 @@ date: 2023-09-18
 draft: false
 tags: ["socialisme", "gauche", "économie", "capitalisme"]
 categories: ["Économie"]
+aliases: ["/posts/fonds-salariaux-2/"]
 ---
 
 Le projet des fonds salariaux, système de transfert des actions des entreprises vers un fond détenu par les salariés, fût adopté par le syndicat LO en 1976. Toutefois, la mise en place d’un tel système soulève un grand nombre de questions, auxquelles son concepteur Rudolf Meidner avait tâché de répondre de son mieux. Présentation de ses travaux sur le sujet.
