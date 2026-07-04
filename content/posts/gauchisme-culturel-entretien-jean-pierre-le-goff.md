@@ -1,10 +1,9 @@
-# « Le gauchisme culturel a bouleversé nos mentalités » – Entretien avec Jean-Pierre Le Goff
-
-**Auteur :** Anthony Gelao
-**Publié le :** 6 mars 2024
-**Catégories :** Culture, Histoire, Politique, Vos entretiens
-**Source :** [gavrochemedia.fr](https://gavrochemedia.fr/gauchisme-culturel-entretien-jean-pierre-le-goff/anthony-gelao/)
-
+---
+title: "« Le gauchisme culturel a bouleversé nos mentalités » – Entretien avec Jean-Pierre Le Goff"
+date: 2024-03-06
+draft: false
+tags: ["socialisme", "gauche", "gauchisme"]
+categories: ["Entretiens"]
 ---
 
 **Dans son dernier essai autobiographique *Mes années folles, Révolte et nihilisme du peuple adolescent après Mai 68* (Robert Laffont, 2023), le sociologue Jean-Pierre Le Goff retrace son parcours dans les milieux révolutionnaires caennais de sa jeunesse. Un récit sensible et analytique au cœur de la révolution culturelle soixante-huitarde qui nous éclaire sur notre présent.**
