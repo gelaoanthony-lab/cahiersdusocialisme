@@ -64,6 +64,6 @@ Même sous sa forme édulcorée, le fond continua à susciter la peur et le reje
 
 Le capital du fond était utilisé pour acheter des actions sur le marché boursier. Après sept ans d’existence, lorsque le projet fut supprimé par la droite, le total des actifs des fonds représentait moins de 5% de la valeur totale du marché boursier suédois. Un total loin d’être suffisant pour avoir une influence significative.
 
-Le projet des fonds salariaux porté par LO s’est finalement conclu par un échec, et est devenu par la suite très lointain, la Suède finissant par opter pour un modèle néo-libéral à partir des années 80. Toutefois les réflexions sur l’organisation et le fonctionnement des fonds, qui devaient servir de fondations à la démocratie économique, peuvent toujours nous servir de base de réflexions aujourd’hui. Suite dans la deuxième partie de notre dossier consacré aux fonds salariaux.
+**Le projet des fonds salariaux porté par LO s’est finalement conclu par un échec, et est devenu par la suite très lointain, la Suède finissant par opter pour un modèle néo-libéral à partir des années 80. Toutefois les réflexions sur l’organisation et le fonctionnement des fonds, qui devaient servir de fondations à la démocratie économique, peuvent toujours nous servir de base de réflexions aujourd’hui. Suite dans la deuxième partie de notre dossier consacré aux fonds salariaux.**
 
 <p style="text-align: right;">Anthony Gelao</p>
