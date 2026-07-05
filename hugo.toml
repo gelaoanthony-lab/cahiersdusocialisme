@@ -9,7 +9,7 @@ title = "Les Cahiers du Socialisme"
   mainSections = ["posts"]
 
 [permalinks]
-  posts = "/articles/:filename/"
+  posts = "/articles/:contentbasename/"
 
 [taxonomies]
   category = "categories"
