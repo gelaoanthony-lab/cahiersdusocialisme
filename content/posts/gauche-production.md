@@ -27,7 +27,7 @@ programme du PCF.
 
 Fabien Roussel a certainement senti la nécessité politique d’opérer une
 distinction entre prolétariat et, comme le disait Friedrich Engels, «
-lumpenprolétariat. » Rassembler ces deux catégories sous le mot de «
+lumpenprolétariat ». Rassembler ces deux catégories sous le mot de «
 pauvres » comme l’a souvent fait la gauche catholique engendre certaines
 frustrations. La société a beaucoup évolué depuis Engels : le niveau de
 vie est considérablement monté, les strates sociales se sont
@@ -71,10 +71,6 @@ Toutefois l’enjeu est aujourd’hui de financer les systèmes de
 redistribution existants plutôt que d’en créer de nouveaux, et seule une
 hausse de la production et une baisse significative du chômage
 permettrait ce financement.
-
-Fabien Roussel a certainement senti la nécessité politique d’opérer une
-distinction entre prolétariat et, comme le disait Friedrich Engels, *«
-lumpenprolétariat »*.
 
 De même, certains impôts n’ont pas la cote dans la population. Un
 sondage récent illustre ce phénomène. Bien que les économistes de gauche
