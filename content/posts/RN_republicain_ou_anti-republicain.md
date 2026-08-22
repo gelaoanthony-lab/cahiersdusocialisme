@@ -1,4 +1,12 @@
-# Le Rassemblement National : républicain ou anti-républicain ?
+---
+title: "Le Rassemblement National : républicain ou anti-républicain ?"
+date: 2026-08-22
+draft: false
+tags: ["politique", "RN", "républicanisme"]
+categories: ["Politique"]
+slug: "rn_republicain_ou_anti_republicain"
+aliases: ["/posts/rn_republicain_ou_anti-republicain/"]
+---
 
 _Pour une bonne partie du champ politico-médiatique, l'affaire est entendue : le Rassemblement national serait un parti d'extrême droite, et il serait hors du « champ républicain ». Mais au-delà des formules et des automatismes, qu'en est-il réellement ?_
 
