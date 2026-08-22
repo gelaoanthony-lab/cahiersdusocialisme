@@ -8,7 +8,7 @@ slug: "rn_republicain_ou_anti_republicain"
 aliases: ["/posts/rn_republicain_ou_anti-republicain/"]
 ---
 
-_Pour une bonne partie du champ politico-médiatique, l'affaire est entendue : le Rassemblement national serait un parti d'extrême droite, et il serait hors du « champ républicain ». Mais au-delà des formules et des automatismes, qu'en est-il réellement ?_
+**Pour une bonne partie du champ politico-médiatique, l'affaire est entendue : le Rassemblement national serait un parti d'extrême droite, et il serait hors du « champ républicain ». Mais au-delà des formules et des automatismes, qu'en est-il réellement ?**
 
 Marine Le Pen pourrait bien accéder à la présidence lors des élections de 2027. La possibilité d'un barrage républicain, alliance ponctuelle entre la gauche et le centre afin de barrer l'accession du Rassemblement National au pouvoir, paraît aujourd'hui affaiblie. D'une part, la France Insoumise de Jean-Luc Mélenchon multiplie les outrances, rendant difficile pour le centre l'acceptation d'une nouvelle alliance ; d'autre part, le RN poursuit son entreprise de respectabilisation.
 
@@ -56,6 +56,7 @@ La part des étrangers dans la population totale à l'heure actuelle n'a jamais 
 
 Un argument récurrent de la gauche voudrait que la désignation d'un ennemi de l'intérieur suffise à classer à l'extrême-droite. C'est encore ici une vision historiciste qui domine, une certaine « méthode des faux semblants » dans laquelle la gauche est devenue experte. Hitler et Vichy ont désigné des ennemis de l'intérieur donc le principe est universellement condamnable en tous lieux, en toutes circonstances. Cette vision du monde a le désavantage de nous laisser désarmés s'il existe effectivement un ennemi de l'intérieur, ce qui semble bien être notre cas. Hitler et Pétain avaient désigné des ennemis de l'intérieur de façon injuste, scandaleuse et haineuse. Ici il s'agit de désigner les islamistes en tant qu'ennemis de l'intérieur, ce qui n'est qu'un juste retour de bâton contre des individus haineux envers la France et représentant un danger potentiel.
 
-À rebours des éléments de langage usuels, il est possible de donner un certain crédit républicain au RN en termes de philosophie politique. Si le RN accède au pouvoir, il lui appartiendra de confirmer ou de dissiper ce crédit républicain. Il lui faudra démontrer par ses actes sa capacité à garder la tête froide et à tenir une ligne républicaine. Il est probable notamment que son accession au pouvoir provoquerait des effets racistes et xénophobes dans la population, que ce parti devrait juguler immédiatement afin de faire ses preuves.
+**À rebours des éléments de langage usuels, il est possible de donner un certain crédit républicain au RN en termes de philosophie politique. Si le RN accède au pouvoir, il lui appartiendra de confirmer ou de dissiper ce crédit républicain. Il lui faudra démontrer par ses actes sa capacité à garder la tête froide et à tenir une ligne républicaine. Il est probable notamment que son accession au pouvoir provoquerait des effets racistes et xénophobes dans la population, que ce parti devrait juguler immédiatement afin de faire ses preuves.**
+
 
 Anthony GELAO
